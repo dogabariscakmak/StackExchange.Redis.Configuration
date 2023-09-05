@@ -1,0 +1,5 @@
+﻿{
+    "MyConfig:Key1": 1,
+    "MyConfig:Key2": true,
+    "MyConfig:Key3": "Value3"
+}
